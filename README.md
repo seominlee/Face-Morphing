@@ -1,4 +1,6 @@
-Face Morphing
+Face Morphing 
+
+## Delete lines from  https://github.com/Azmarie/Face-Morphing
 ===================
 
 Create a morphing sequences betwen two faces. 
@@ -52,19 +54,8 @@ Key Features
 3. Calculate the **triangular mesh** with Delaunay Triangulation for each intermediate shape
 4. Warp the two input images towards the intermediate shape, perform **cross-dissolve** and obtain intermediate images each frame
 
-More Results
--------------
-![Morphed Video](results/final-club-final.gif)
-
-![Morphed Video](results/ld-final.gif)
 
 
-To Do
--------------
-Morph multiple images into a complete sequence  
-Morph with body landmarks
 
-Citations
--------------
 
-Adivces on working with facial landmarks with dlib and opencv https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/ 
+
