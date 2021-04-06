@@ -23,10 +23,10 @@ Getting Started
 -------------
 
 #### Test with demo images
-
+```
 python3 code/__init__.py --img1 2.png --img2 3.png --output output.mp4
 
-
+```
 
 Generate a morphing animation video sequence
 
