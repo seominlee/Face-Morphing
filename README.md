@@ -1,5 +1,7 @@
 # Face Morphing 
 
+![alt text](https://github.com/seominlee/Face-Morphing/blob/master/gogh.png?raw=true)
+
 ## Delete lines from  https://github.com/Azmarie/Face-Morphing
 ===================
 
