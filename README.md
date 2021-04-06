@@ -24,9 +24,8 @@ Getting Started
 
 #### Test with demo images
 
-A photo of Jennie from Blackpink       |  A photo of Rihanna
-:-------------------------:|:-------------------------:
-![](/images/aligned_images/jennie.png)  |  ![](/images/aligned_images/rih.png)
+python3 code/__init__.py --img1 images/aligned_images/2.png --img2 images/3.png --output output.mp4
+
 
 
 Generate a morphing animation video sequence
