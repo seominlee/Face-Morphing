@@ -24,7 +24,7 @@ Getting Started
 
 #### Test with demo images
 
-python3 code/__init__.py --img1 images/aligned_images/2.png --img2 images/3.png --output output.mp4
+python3 code/__init__.py --img1 2.png --img2 3.png --output output.mp4
 
 
 
@@ -34,7 +34,7 @@ Generate a morphing animation video sequence
 python3 code/__init__.py --img1 images/aligned_images/jennie.png --img2 images/aligned_images/rih.png --output output.mp4
 ```
 
-![Morphed Video](results/output.gif)
+
 
 #### Test with your own images
 
