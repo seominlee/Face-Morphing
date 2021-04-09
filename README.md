@@ -15,8 +15,8 @@ Requirements
 ```
 numpy
 scikit_image
-opencv_python
-Pillow
+opencv_python  :   pip install opencv-python
+Pillow    
 skimage   :    python -m pip install -U scikit-image
 dlib      :    conda install -c conda-forge dlib  
 ```
