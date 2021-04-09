@@ -13,12 +13,13 @@ Output: A video showing the fluid transformation from one face to the other
 Requirements
 -------------
 ```
-numpy
-scikit_image
-opencv_python  :   pip install opencv-python
-Pillow    
-skimage   :    python -m pip install -U scikit-image
-dlib      :    conda install -c conda-forge dlib  
+pip install imutils
+
+pip install opencv-python
+ 
+python -m pip install -U scikit-image
+
+conda install -c conda-forge dlib  
 ```
 
 Getting Started
