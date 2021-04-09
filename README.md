@@ -18,7 +18,7 @@ scikit_image
 opencv_python
 Pillow
 skimage
-dlib
+dlib      :    bash dlib.sh
 ```
 
 Getting Started
