@@ -18,7 +18,7 @@ scikit_image
 opencv_python
 Pillow
 skimage
-dlib      :    bash dlib.sh
+dlib      :    conda install -c conda-forge dlib   //    bash dlib.sh
 ```
 
 Getting Started
