@@ -27,9 +27,16 @@ Getting Started
 
 #### Test with demo images
 ```
+
 python3 code/__init__.py --img1 2.png --img2 3.png --output output.mp4
 
+
+
+2x video  //  ffmpeg -i gogh.mp4 -filter:v "setpts=0.5*PTS" 2X.mp4
 ```
+
+
+
 
 Generate a morphing animation video sequence
 
