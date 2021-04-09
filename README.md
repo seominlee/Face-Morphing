@@ -17,8 +17,8 @@ numpy
 scikit_image
 opencv_python
 Pillow
-skimage
-dlib      :    conda install -c conda-forge dlib   //    bash dlib.sh
+skimage   :    python -m pip install -U scikit-image
+dlib      :    conda install -c conda-forge dlib  
 ```
 
 Getting Started
