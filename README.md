@@ -35,7 +35,7 @@ ffmpeg -i g7.mp4 -filter:v "setpts=0.6*PTS" 6XX.mp4
 
 2x video  //  ffmpeg -i gogh.mp4 -filter:v "setpts=0.5*PTS" 2X.mp4
 
-extract images from video
+//extract images from video //
 
 ffmpeg -i 2X.mp4 -r 6 s/output_%04d.png
 
